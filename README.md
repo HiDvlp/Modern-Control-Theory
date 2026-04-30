@@ -11,6 +11,8 @@
 ```
 Simulation/
 ├── chap_7
+│   ├── backlash_nonlinearity
+│   │   └── backlash_nonlinearity.slx		# 间隙非线性
 │   ├── deadzone_nonlinearity
 │   │   └── deadzone_nonlinearity.slx		# 死区非线性
 │   ├── relay_nonlinearity
